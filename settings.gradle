@@ -1,0 +1,2 @@
+rootProject.name='AndroidMvvmCoroutines'
+include ':app'
