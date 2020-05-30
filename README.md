@@ -16,3 +16,4 @@ O projeto será construído da seguinte forma:
 A layer ViewModel utilizará o Architecture Component ViewModel,  que vai gerenciar o tempo de vida da nossa ViewModel através das mudanças do ciclo de vida da Activity através da injeção usando o provider que ela traz.
 
 #### Artigo Medium
+https://medium.com/@tguizelini/android-mvvm-retrofit-coroutines-s2-7f09bce0ad0c
